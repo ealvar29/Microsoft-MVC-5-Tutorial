@@ -124,6 +124,8 @@ C:\Users\Master\source\GitKraken\C# - DotNet Projects\Microsoft MVC 5 Tutorial\M
 C:\Users\Master\source\GitKraken\C# - DotNet Projects\Microsoft MVC 5 Tutorial\MvcMovie\MvcMovie\bin\roslyn\VBCSCompiler.exe
 C:\Users\Master\source\GitKraken\C# - DotNet Projects\Microsoft MVC 5 Tutorial\MvcMovie\MvcMovie\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\Master\source\GitKraken\C# - DotNet Projects\Microsoft MVC 5 Tutorial\MvcMovie\MvcMovie\bin\Antlr3.Runtime.dll
+C:\Users\Master\source\GitKraken\C# - DotNet Projects\Microsoft MVC 5 Tutorial\MvcMovie\MvcMovie\bin\EntityFramework.dll
+C:\Users\Master\source\GitKraken\C# - DotNet Projects\Microsoft MVC 5 Tutorial\MvcMovie\MvcMovie\bin\EntityFramework.SqlServer.dll
 C:\Users\Master\source\GitKraken\C# - DotNet Projects\Microsoft MVC 5 Tutorial\MvcMovie\MvcMovie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\Master\source\GitKraken\C# - DotNet Projects\Microsoft MVC 5 Tutorial\MvcMovie\MvcMovie\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\Master\source\GitKraken\C# - DotNet Projects\Microsoft MVC 5 Tutorial\MvcMovie\MvcMovie\bin\Newtonsoft.Json.dll
@@ -135,6 +137,8 @@ C:\Users\Master\source\GitKraken\C# - DotNet Projects\Microsoft MVC 5 Tutorial\M
 C:\Users\Master\source\GitKraken\C# - DotNet Projects\Microsoft MVC 5 Tutorial\MvcMovie\MvcMovie\bin\System.Web.WebPages.dll
 C:\Users\Master\source\GitKraken\C# - DotNet Projects\Microsoft MVC 5 Tutorial\MvcMovie\MvcMovie\bin\System.Web.WebPages.Razor.dll
 C:\Users\Master\source\GitKraken\C# - DotNet Projects\Microsoft MVC 5 Tutorial\MvcMovie\MvcMovie\bin\WebGrease.dll
+C:\Users\Master\source\GitKraken\C# - DotNet Projects\Microsoft MVC 5 Tutorial\MvcMovie\MvcMovie\bin\EntityFramework.xml
+C:\Users\Master\source\GitKraken\C# - DotNet Projects\Microsoft MVC 5 Tutorial\MvcMovie\MvcMovie\bin\EntityFramework.SqlServer.xml
 C:\Users\Master\source\GitKraken\C# - DotNet Projects\Microsoft MVC 5 Tutorial\MvcMovie\MvcMovie\bin\System.Web.Helpers.xml
 C:\Users\Master\source\GitKraken\C# - DotNet Projects\Microsoft MVC 5 Tutorial\MvcMovie\MvcMovie\bin\System.Web.Mvc.xml
 C:\Users\Master\source\GitKraken\C# - DotNet Projects\Microsoft MVC 5 Tutorial\MvcMovie\MvcMovie\bin\System.Web.Optimization.xml
@@ -145,8 +149,8 @@ C:\Users\Master\source\GitKraken\C# - DotNet Projects\Microsoft MVC 5 Tutorial\M
 C:\Users\Master\source\GitKraken\C# - DotNet Projects\Microsoft MVC 5 Tutorial\MvcMovie\MvcMovie\bin\Newtonsoft.Json.xml
 C:\Users\Master\source\GitKraken\C# - DotNet Projects\Microsoft MVC 5 Tutorial\MvcMovie\MvcMovie\bin\Antlr3.Runtime.pdb
 C:\Users\Master\source\GitKraken\C# - DotNet Projects\Microsoft MVC 5 Tutorial\MvcMovie\MvcMovie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Master\source\GitKraken\C# - DotNet Projects\Microsoft MVC 5 Tutorial\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csprojAssemblyReference.cache
 C:\Users\Master\source\GitKraken\C# - DotNet Projects\Microsoft MVC 5 Tutorial\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csproj.CoreCompileInputs.cache
 C:\Users\Master\source\GitKraken\C# - DotNet Projects\Microsoft MVC 5 Tutorial\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csproj.CopyComplete
 C:\Users\Master\source\GitKraken\C# - DotNet Projects\Microsoft MVC 5 Tutorial\MvcMovie\MvcMovie\obj\Debug\MvcMovie.dll
 C:\Users\Master\source\GitKraken\C# - DotNet Projects\Microsoft MVC 5 Tutorial\MvcMovie\MvcMovie\obj\Debug\MvcMovie.pdb
+C:\Users\Master\source\GitKraken\C# - DotNet Projects\Microsoft MVC 5 Tutorial\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csprojAssemblyReference.cache
